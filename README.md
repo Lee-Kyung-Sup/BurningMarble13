@@ -20,5 +20,5 @@ Unity Editor Version 2022.3.2f1
 IDE: Visual Studio 2022
 
 ## 게임플레이
-<img src="https://github.com/Lee-Kyung-Sup/BurningMarble13/assets/120997897/281bc244-e675-47b5-bcca-d490531c47b0 width="400" height="300" />
+<img src="https://github.com/Lee-Kyung-Sup/BurningMarble13/assets/120997897/281bc244-e675-47b5-bcca-d490531c47b0" width="400" height="300" />
 
