@@ -17,6 +17,7 @@ Unity 게임 개발 팀 프로젝트
 팀원 장지희:  
 팀원 염고운:  
 팀원 이경섭: Game UI, SceneManager
+             (StartMenu, MainMenu, Scene Connect)
 
 ## 개발 환경
 Unity Editor Version 2022.3.2f1   
